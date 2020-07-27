@@ -1,0 +1,14 @@
+.speed-two-button{
+  font-size: 1rem;
+  font-weight: bold;
+  color: gray;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.speed-two-button:hover{
+  background-color: #009588;
+  color: white;
+
+}
